@@ -1,12 +1,14 @@
 body{
-  background:url(https://wallpapercave.com/wp/wp5748130.jpg) ;
+  background-color: aliceblue;
+  
+  
 }
 .App{
   background-color: gray;
   min-height: 500px;
   width: 400px;
-  
   margin: 40px auto;
+  border-radius: 10px;
 }
 #to-do-form input {
   background-color: aliceblue;
